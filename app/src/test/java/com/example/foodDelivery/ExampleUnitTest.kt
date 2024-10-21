@@ -1,4 +1,4 @@
-package com.example.vchat
+package com.example.foodDelivery
 
 import org.junit.Test
 

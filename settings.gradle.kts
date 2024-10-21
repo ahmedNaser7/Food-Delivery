@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "V Chat"
+rootProject.name = "Food Delivery"
 include(":app")
- 

@@ -1,4 +1,4 @@
-package com.example.vchat.ui.theme
+package com.example.foodDelivery.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
