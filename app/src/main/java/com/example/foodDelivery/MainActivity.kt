@@ -15,7 +15,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             FoodDeliveryTheme {
-                Text(text = "food delivery")
+                Text(text = "food ")
             }
         }
     }
